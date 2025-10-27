@@ -91,7 +91,7 @@ Feel free to reuse and extend for academic or educational projects.
 ## 🧰 Credits
 
 Developed in **OpenModelica 1.25.4**, using **Modelica Standard Library 4.0.0**.  
-© 2025 — *Your Name*  
+© 2025 — *Rajiv Dixit*  
 
 
 
